@@ -6,6 +6,20 @@
             "date": ["14/10/2023", "12:34"],
             "type": "special",
             "url": "https://maxandsoftware.github.io/blog/special/socialmediab/"
+        },
+        {
+            "title": "Обновление Maxand News",
+            "image": "",
+            "date": ["15/10/2023", "13:24"],
+            "type": "article",
+            "url": "https://maxandsoftware.github.io/blog/maxand-news-update-15-10-12"
+        },
+        {
+            "title": "Тест",
+            "image": "",
+            "date": ["15/10/2023", "13:14"],
+            "type": "article",
+            "url": "https://maxandsoftware.github.io/blog/test-15-10-12"
         }
     ]
 }
